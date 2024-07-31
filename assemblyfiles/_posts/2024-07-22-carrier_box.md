@@ -1,414 +1,187 @@
 ---
 title: Module Carrier Box 
 tags: Carrier Plate Strap
-cover: /assets/images/cover/carrier_plate.jpg
+cover: /assets/images/cover/carrier_box_cover.jpeg
+chart: true
 ---
 
-# Introduction
+# Introduction:
 
 It just takes 10 minutes to save hundreds of work hours by giving a safe and low-humidity travel to the CMS experiment assembled modules.
 This guide will explain step by step how  to ensure the modules inside their carrying boxes.
 
+**Important! Read this guide before shipping any modules**: Otherwise you may be ruining months of work. 
+{:.error}
+
 **Important! Wear gloves while handling the modules**: The carrier plate is coated with ESD-safe material. To prevent degradation of the coating by finger grease and dirt, avoid direct contact with the plate.
 {:.error}
 
+# Reasoning: 
 
-# Materials
+<ul>
+    <li>
+    Even though the carrier boxes are designed to be waterproof, we have tracked the humidity levels inside, and the isolation on most cages will not be enough to keep humidity under room values for a few hours.<br>
+    We have spent weeks testing different methods that make it possible to mantain humidity as low as needed. In the following graph, it can be seen how this protocole makes a difference of 20 %, using the same type of carrier box in similar environments over two days. 
+    </li>
+</ul>
+
+<center>
+    <img src="/assets/images/Carrier_Box/graph.jpg" width="100%" alt="Humidity Comparision graph">
+</center>
+
+<br>
+# Materials:
 
 <div class="grid">
     <div class="cell cell--auto">
         <table>
             <tr>
-                <th>Part</th>
-                <th>Quantity</th>
+                <th>Material</th>
+                <th>Details</th>
             </tr>
             <tr>
-                <td>Hex Standoff M3 SS 10mm</td>
-                <td>4</td>
+                <td>Carrier Box </td>
+                <td>Provided by KIT </td>
             </tr>
             <tr>
-                <td>M2x12</td>
-                <td>4</td>
+                <td>Two Straps </td>
+                <td>Included with the carrier box</td>
             </tr>
             <tr>
-                <td>M3x12</td>
-                <td>8</td>
+                <td>Nitrogen Gas </td>
+                <td>Cylinder with gauge and valve connector </td>
             </tr>
             <tr>
-                <td>M3x6</td>
-                <td>4</td>
+                <td>Silicone</td>
+                <td>e.g. ‘Chemplex 710 Silicone Compound’, used as barrier to corrosion and moisture. May be applied using cuetips.</td>
             </tr>
             <tr>
-                <td>Nylon in thin nut 3x.5</td>
-                <td>4</td>
+                <td>Desiccant bags</td>
+                <td>Two small size. Make sure the bags are not damaged. </td>
             </tr>
             <tr>
-                <td>3D printed Hex Standoff M2x10mm</td>
-                <td>4</td>
+                <td>Nanotape</td>
+                <td>Non chemical adhesive. Not corrosive while having a great sticking power. </td>
             </tr>
-            <tr>
-                <td>Black rubber feet</td>
-                <td>4</td>
-            </tr>
-            <tr>
-                <td>Bottom acrylic</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>Top acrylic</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>Plate</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>Ratchet</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>Screw driver</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>Allen wrench</td>
-                <td>2</td>
-            </tr>
+        
         </table>
     </div>
     <div class="cell cell--6">
-        <img src="/assets/images/Carrier_Plate/materials.jpg" alt="Materials">
+        <img src="/assets/images/Carrier_Box/materials.jpg" alt="Materials">
     </div>
 </div>
 
-## Orientation of the plate
 
-<div class="grid">
-    <div class="cell cell--5">
-        <img src="/assets/images/Carrier_Plate/top.jpg" width="92%" alt="Top"> Top side
-    </div>
-    <div class="cell cell--5">
-        <img src="/assets/images/Carrier_Plate/bottom.jpg" alt="Bottom"> Bottom side
-    </div>
-</div>
+# Step 1: Apply Silicon on Gasket
 
-# Step 1: Feet
-
-### Preparing the feet
-
-`Materials`{:.info}
-
-<table>
-    <tr>
-        <th>Part</th>
-        <th>Quantity</th>
-    </tr>
-    <tr>
-        <td>Black rubber feet</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>M3x12</td>
-        <td>4</td>
-    </tr>
-</table>
-
+### Isolating the inside of the box 
 
 <div class="grid">
   <div class="cell cell--auto">
-    <img src="/assets/images/Carrier_Plate/feet_with_screw.jpg" width="80%" alt="Preparation">
+    <img src="/assets/images/Carrier_Box/silicone.jpg" alt="Silicone Steps">
   </div>
   <div class="cell cell--auto">
     <ul>
-      <li>Insert the M3x12 screws into the feet</li>
-    </ul>
-    <img src="/assets/images/Carrier_Plate/M3.jpg" width="70%" alt="M3"> 
-  </div>
-</div>
-
-### Securing the feet in place 
-
-<div class="grid">
-  <div class="cell cell--auto">
-    <img src="/assets/images/Carrier_Plate/bottom_feet_loc.jpg" alt="Feet Location">
-  </div>
-  <div class="cell cell--auto">
-    <ul>
-      <li>Insert the feet into the designated holes on the underside of the plate and secure them with screws.</li>
+      <li>First, we will make sure that the gasket of the box is in good condition. It should not have any cracks, and the joint of the gasket should not have an obvious gap. <br>
+      In order to avoid leaks due to these possible issues, and, in general, to ensure a correct sealing, we recommend the use of Silicon. 
+      It can be gently applied all along the gasket using a cue tip, cleaning excess with a lint free wipe.
+      </li>
     </ul>
   </div>
 </div>
 
-**It should look like this:**
+
+# Step 2: Stick Desiccant Bags
+
+### Controlling the inside environment 
+
+<div class="grid">
+  <div class="cell cell--auto">
+    <ul>
+      <li>We will be using nitrogen gas to get humidity levels down (< 5 %). Moreover, introducing a desiccant agent inside will keep it at optimal conditions in the long term (< 30 %). <br>
+
+      Thus, the second step will be to stick two small desiccant bags inside the box using Nano tape. They can be placed anywhere as long as they do not interfere with other elements, in this guide we suggest sticking them to the cover.
+
+      </li>
+    </ul>
+  </div>
+    <div class="cell cell--auto">
+    <img src="/assets/images/Carrier_Box/desiccant1.jpg" alt="Desiccant Bags Steps">
+  </div>
+</div>
+
+**Suggested placing of the desiccant bags:**
 
 <center>
-<img src="/assets/images/Carrier_Plate/Feet.jpg" width="50%" alt="Feet">
+    <img src="/assets/images/Carrier_Box/desiccant2.jpg" width="50%" alt="Desiccant Bags Placing">
 </center>
 
+# Step 3: Placing Straps
 
-# Step 2: M2 screws
-
-`Materials`{:.info}
-
-<table>
-    <tr>
-        <th>Part</th>
-        <th>Quantity</th>
-    </tr>
-    <tr>
-        <td>M2x12</td>
-        <td>4</td>
-    </tr>
-</table>
+### Almost done
 
 <div class="grid">
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/Feet_w_loc_m2.jpg" alt="M2">
-    </div>
-    <div class="cell cell--auto">
-        <ul>
-            <li>After securing the feet in the plate, locate the socketed holes</li>
-            <li>Use a screwdriver to tighten the M2x12 screws.</li>
-        </ul>
+  <div class="cell cell--auto">
+     <img src="/assets/images/Carrier_Box/straps1.jpg" alt="Straps Setting">
+  </div>
+  <div class="cell cell--auto">
+    <ul>
+      <li>After carefully introducing all modules in the box, and placing all the foam inserts, we will close the box without anchoring the two clamps.<br>
+      
+      We will now ensure both straps around the box, in a X configuration, as shown in the picture. We should avoid over-tightening since it will bend the box producing leaks.<br>
+
+      We will not close the clamps yet to avoid over pressure, which could damage the box or/and modules.
+      </li>
+
+      <br>
+      <li>
+      <b>Carrier box should look like this before next step:</b>
+      <br>
+      <br>
+
         <center>
-        <img src="/assets/images/Carrier_Plate/M2.jpg" width="60%" alt="M2">
+            <img src="/assets/images/Carrier_Box/straps2.jpeg" width="90%" alt="Straps Set">
         </center>
-    </div>
-</div>
+      </li>
 
----
-
-<div class="grid">
-    <div class="cell cell--auto">
-        <ul>
-            <li>This screws will hold down the 3D printed standoff (See Step 6 for installation)</li>
-        </ul>
-    </div>
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/Feet_w_screws.jpg" alt="M2 installed">
-    </div>
-</div>
-
-# Step 3: M3 screws
-
-`Materials`{:.info}
-
-<table>
-    <tr>
-        <th>Part</th>
-        <th>Quantity</th>
-    </tr>
-    <tr>
-        <td>M3x12</td>
-        <td>4</td>
-    </tr>
-</table>
-
-<div class="grid">
-  <div class="cell cell--auto">
-    <img src="/assets/images/Carrier_Plate/Feet_w_screws_M3_loc.jpg" alt="M3">
-  </div>
-<div class="cell cell--auto">
-    <ul>
-      <li>Locate the holes near the socketed holes with the M2 screws</li>
-      <li>Use the allen key to tighten the M3x12 screws.</li>
-    </ul>
-    <center>
-    <img src="/assets/images/Carrier_Plate/M3.jpg" width="60%" alt="M3">
-    </center>
-  </div>
-</div>
-
----
-
-<div class="grid">
-    <div class="cell cell--auto">
-        <ul>
-            <li>These hold down the metal hex standoffs</li>
-        </ul>
-    </div>
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/Feet_w_screws1.jpg" alt="M3 installed">
-    </div>
-</div>
-
-# Step 4: Acrylic bottom 
-
-`Materials`{:.info}
-
-<table>
-    <tr>
-        <th>Part</th>
-        <th>Quantity</th>
-    </tr>
-    <tr>
-        <td>M3x6</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>Bottom Acrylic</td>
-        <td>1</td>
-    </tr>
-</table>
-
-<div class="grid">
-  <div class="cell cell--auto">
-    <img src="/assets/images/Carrier_Plate/Feet_w_screws1_loc_acr.jpg" alt="Location acrylic">
-  </div>
-<div class="cell cell--auto">
-    <ul>
-      <li>Locate the last 4 screw holes in the plate</li>
-      <li>Take the acrylic plate and align it with the screw holes</li>
-      <ul>
-        <li>The acrylic plate fits in only one position</li>
-      </ul>
-      <li>Place and use the allen key to tighten the M3x6 screws (black).</li>
-      <ul>
-        <li>The screws tighten with a little bit of a play, and has a small clearance with the holes of the acrylic plate</li>
-      </ul>
     </ul>
   </div>
 </div>
 
-**After installing it, it should look like this:**
 
-<center>
-<img src="/assets/images/Carrier_Plate/bottom_completed.jpg" width="50%" alt="Feet">
-</center>
 
-**Bottom section is completed**
-{:.success}
+# Step 4: Fill with Nitrogen Gas 
 
-# Step 5: Metal Standoffs
-
-Turn around the carrier plate
-{:.warning}
-
-`Materials`{:.info}
-
-<table>
-    <tr>
-        <th>Part</th>
-        <th>Quantity</th>
-    </tr>
-    <tr>
-        <td>Hex Standoff M3 SS 10mm</td>
-        <td>4</td>
-    </tr>
-</table>
-
-<div class="grid">
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/top_w_screws_metal_loc.jpg" alt="Location metal">
-    </div>
-    <div class="cell cell--auto">
-        <ul>
-            <li>Locate the M3 screws that are sticking out</li>
-            <li>Tighten the metal hex standoffs until secure</li>
-        </ul>
-    <center>
-        <img src="/assets/images/Carrier_Plate/hex_standoffs.jpg" width="80%" alt="Standoffs">
-    </center>
-    </div>
-</div>
-
----
-
-<div class="grid">
-    <div class="cell cell--auto">
-        <ul>
-            <li>These are the screws that hold down the top side acrylic plate with the nuts</li>
-        </ul>
-    </div>
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/top_w_screws.jpg" alt="M3 installed">
-    </div>
-</div>
-
-# Step 6: 3D printed standoffs
-
-`Materials`{:.info}
-
-<table>
-    <tr>
-        <th>Part</th>
-        <th>Quantity</th>
-    </tr>
-    <tr>
-        <td>3D printed Hex Standoff M2x10mm</td>
-        <td>4</td>
-    </tr>
-</table>
+### Taking humidity down 
 
 <div class="grid">
   <div class="cell cell--auto">
-    <img src="/assets/images/Carrier_Plate/top_w_screws_3D_loc.jpg" alt="Location 3D printed">
-  </div>
-<div class="cell cell--auto">
     <ul>
-      <li>Locate the M2 screws that are sticking out</li>
-      <li>Tighten the 3D printed hex standoffs until secure</li>
-      <ul>
-        <li>It needs a slight pressure to install it and form the thread inside the barrel</li>
-      </ul>
+      <li>We will now proceed filling the box with nitrogen gas, "for about 5’", through the valve on the front of the box. It must be enough to lower humidity under 5 %, leaving an easier task for the desiccant bags which will have to keep it under 30 %.
+      </li>
+    </ul>
+  </div>
+    <div class="cell cell--auto">
+    <img src="/assets/images/Carrier_Box/nitrogen.jpg" width="110%" alt="Valve">
+  </div>
+</div>
+
+
+# Step 5: Close Clamps & Valve
+
+### Ready for shipping
+
+<div class="grid">
+  <div class="cell cell--auto">
+     <img src="/assets/images/Carrier_Box/carrier_box_cover.jpeg" alt="Closed Box">
+  </div>
+  <div class="cell cell--auto">
+    <ul>
+      <li>Finally, after filling the cage with Nitrogen, close the two clamps on the carrying box and put valve cap again. It is now ready to pack and ship. Surplus strap can be folded.
+      </li>
     </ul>
   </div>
 </div>
 
----
-
-<center>
-<b>After both standoffs are installed, they should look like this</b>
-
-<div class="grid">
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/top_w_screws_standoffs.jpg" width="84%" alt="Standoffs 1">
-    </div>
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/standoffs.jpg" alt="Location 3D printed">
-  </div>
-</div>
-</center>
-
-# Step 7: Acrylic top
-
-<table>
-    <tr>
-        <th>Part</th>
-        <th>Quantity</th>
-    </tr>
-    <tr>
-        <td>Acrylic Top</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Nylon in thin nut 3x.5</td>
-        <td>4</td>
-    </tr>
-</table>
-
-* Align the outer holes from the acrylic top with the metal hex standoffs
-    * The acrylic top will only fit in one direction
-* The inner holes should align with the 3D printed hex standoffs
-* Using the wrench, tighten up the acrylic top using the nuts
-    * Do not over-tighten the nuts
-
----
-
-<center>
-<b>After securing the acrylic top, it should look like this</b>
-
-<div class="grid">
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/top_completed2.jpg" width="86%" alt="Carrier plate finalized1">
-    </div>
-    <div class="cell cell--auto">
-        <img src="/assets/images/Carrier_Plate/top_completed1.jpg" alt="Carrier plate finalized2">
-  </div>
-</div>
-</center>
-
----
-
-After this, you succesfully assembled the carrier plate for the PS-s Module.
+After this, modules will be travelling in a friendly environment. Thanks for your time :)
 {:.success}
